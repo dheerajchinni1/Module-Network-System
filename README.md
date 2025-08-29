@@ -1,4 +1,4 @@
-# Module Network System (MNS)
+# MNS - Module Network System - Version 1.0.0
 
 **Module Network System (MNS)** is a **extensible framework** for creating, running, testing, and connecting functional modules that enhance the capabilities of **LLMs** and **AI Agents**.  
 
